@@ -26,6 +26,16 @@
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 z.cdp-dev.cnn.com
 
+# FOX
+0.0.0.0 analytics.nova.fox.com
+0.0.0.0 api3.fox.com
+0.0.0.0 fox.com
+0.0.0.0 help.fox.com
+0.0.0.0 privacy.fox.com
+0.0.0.0 static-media.fox.com
+0.0.0.0 tech.fox.com
+0.0.0.0 www.fox.com
+
 # FOXNEWS
 0.0.0.0 a57.foxnews.com
 0.0.0.0 analytics.nova.foxnews.com
