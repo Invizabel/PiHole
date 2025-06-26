@@ -217,6 +217,20 @@ www.kiro7.com
 0.0.0.0 laweekly.com
 0.0.0.0 www.laweekly.com
 
+# MERCURY NEWS
+0.0.0.0 a869.mercurynews.com
+0.0.0.0 blogs.mercurynews.com
+0.0.0.0 careers.mercurynews.com
+0.0.0.0 checkout.mercurynews.com
+0.0.0.0 enewspaper.mercurynews.com
+0.0.0.0 extras.mercurynews.com
+0.0.0.0 mercurynews.com
+0.0.0.0 myaccount.mercurynews.com
+0.0.0.0 partnercontent.mercurynews.com
+0.0.0.0 realestate.mercurynews.com
+0.0.0.0 store.mercurynews.com
+0.0.0.0 www.mercurynews.com
+
 # MSNBC
 0.0.0.0 link.msnbc.com
 0.0.0.0 msnbc.com
@@ -381,6 +395,10 @@ navbharatlive.com
 0.0.0.0 static.tv9gujarati.com
 0.0.0.0 tv9gujarati.com
 0.0.0.0 www.tv9gujarati.com
+
+# OBSERVER
+0.0.0.0 observer.com
+0.0.0.0 www.observer.com
 
 # USATODAY
 0.0.0.0 account.usatoday.com
