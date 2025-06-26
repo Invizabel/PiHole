@@ -1,10 +1,5 @@
 # APNEWS
-0.0.0.0 apcdp.apnews.com
-0.0.0.0 apnews.com
-0.0.0.0 assets.apnews.com
-0.0.0.0 dims.apnews.com
-0.0.0.0 projects.apnews.com
-0.0.0.0 www.apnews.com
+0.0.0.0 (\.|^)apnews\.com$
 
 # BBC
 0.0.0.0 account.bbc.com
