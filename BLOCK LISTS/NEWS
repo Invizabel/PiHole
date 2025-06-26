@@ -15,6 +15,24 @@
 0.0.0.0 shop.bbc.com
 0.0.0.0 www.bbc.com
 
+# BOSTONGLOBE
+0.0.0.0 apps.bostonglobe.com
+0.0.0.0 bostonglobe.com
+0.0.0.0 cloudpages.bostonglobe.com
+0.0.0.0 customerservice.bostonglobe.com
+0.0.0.0 epaper.bostonglobe.com
+0.0.0.0 freetrial.bostonglobe.com
+0.0.0.0 manage.bostonglobe.com
+0.0.0.0 meter.bostonglobe.com
+0.0.0.0 pages-sandbox.bostonglobe.com
+0.0.0.0 pages.bostonglobe.com
+0.0.0.0 payment.bostonglobe.com
+0.0.0.0 sponsored.bostonglobe.com
+0.0.0.0 subscribe.bostonglobe.com
+0.0.0.0 www.bostonglobe.com
+0.0.0.0 www2.bostonglobe.com
+0.0.0.0 www3.bostonglobe.com
+
 # CBS
 0.0.0.0 cbs.com
 0.0.0.0 help.cbs.com
