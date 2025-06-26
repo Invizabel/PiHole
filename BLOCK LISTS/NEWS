@@ -214,6 +214,12 @@ navbharatlive.com
 0.0.0.0 secure.nbcnews.com
 0.0.0.0 www.nbcnews.com
 
+# NEWS9LIVE
+0.0.0.0 images.news9live.com
+0.0.0.0 news9live.com
+0.0.0.0 static.news9live.com
+0.0.0.0 www.news9live.com
+
 # NPR
 0.0.0.0 apps.npr.org
 0.0.0.0 bundles.npr.org
@@ -319,6 +325,12 @@ navbharatlive.com
 # TV9
 0.0.0.0 tv9.com
 0.0.0.0 www.tv9.com
+
+# TV9GUJARATI
+0.0.0.0 images.tv9gujarati.com
+0.0.0.0 static.tv9gujarati.com
+0.0.0.0 tv9gujarati.com
+0.0.0.0 www.tv9gujarati.com
 
 # WSJ
 0.0.0.0 wsj.com
