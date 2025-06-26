@@ -147,6 +147,25 @@
 0.0.0.0 telugu.hashtagu.in
 0.0.0.0 www.hashtagu.in
 
+# HUFFPOST
+0.0.0.0 auth.huffpost.com
+0.0.0.0 chaski.huffpost.com
+0.0.0.0 help.huffpost.com
+0.0.0.0 huffpost.com
+0.0.0.0 login.huffpost.com
+0.0.0.0 modulous.huffpost.com
+0.0.0.0 tips.huffpost.com
+0.0.0.0 www.huffpost.com
+
+# KIRO7
+kiro7.com
+membercenter.kiro7.com
+www.kiro7.com
+
+# KOMONEWS
+0.0.0.0 komonews.com
+0.0.0.0 www.komonews.com
+
 # KSTP
 0.0.0.0 kstp.com
 0.0.0.0 link.kstp.com
@@ -344,6 +363,20 @@ navbharatlive.com
 0.0.0.0 static.tv9gujarati.com
 0.0.0.0 tv9gujarati.com
 0.0.0.0 www.tv9gujarati.com
+
+# USATODAY
+0.0.0.0 account.usatoday.com
+0.0.0.0 advertising.usatoday.com
+0.0.0.0 chat.usatoday.com
+0.0.0.0 cm.usatoday.com
+0.0.0.0 help.usatoday.com
+0.0.0.0 login.usatoday.com
+0.0.0.0 offers.usatoday.com
+0.0.0.0 onlinestore.usatoday.com
+0.0.0.0 subscribe.usatoday.com
+0.0.0.0 usatoday.com
+0.0.0.0 user.usatoday.com
+0.0.0.0 www.usatoday.com
 
 # WSJ
 0.0.0.0 wsj.com
