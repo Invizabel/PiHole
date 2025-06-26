@@ -212,6 +212,11 @@ www.kiro7.com
 0.0.0.0 studios.latimes.com
 0.0.0.0 www.latimes.com
 
+# LAWEEKLY
+0.0.0.0 engine.laweekly.com
+0.0.0.0 laweekly.com
+0.0.0.0 www.laweekly.com
+
 # MSNBC
 0.0.0.0 link.msnbc.com
 0.0.0.0 msnbc.com
@@ -289,6 +294,19 @@ navbharatlive.com
 0.0.0.0 vip.nypost.com
 0.0.0.0 www.nypost.com
 0.0.0.0 zephr-v4.nypost.com
+
+# NYTIMES
+0.0.0.0 advertising.nytimes.com
+0.0.0.0 archive.nytimes.com
+0.0.0.0 cn.nytimes.com
+0.0.0.0 cooking.nytimes.com
+0.0.0.0 help.nytimes.com
+0.0.0.0 nytco-assets.nytimes.com
+0.0.0.0 nytimes.com
+0.0.0.0 rss.nytimes.com
+0.0.0.0 static.nytimes.com
+0.0.0.0 static01.nytimes.com
+0.0.0.0 www.nytimes.com
 
 # PENNLIVE
 0.0.0.0 autos.pennlive.com
@@ -377,6 +395,19 @@ navbharatlive.com
 0.0.0.0 usatoday.com
 0.0.0.0 user.usatoday.com
 0.0.0.0 www.usatoday.com
+
+# USNEWS
+0.0.0.0 cars.usnews.com
+0.0.0.0 emailprefs.usnews.com
+0.0.0.0 health.usnews.com
+0.0.0.0 law.usnews.com
+0.0.0.0 lawyers.usnews.com
+0.0.0.0 mediakit.usnews.com
+0.0.0.0 money.usnews.com
+0.0.0.0 realestate.usnews.com
+0.0.0.0 travel.usnews.com
+0.0.0.0 usnews.com
+0.0.0.0 www.usnews.com
 
 # WSJ
 0.0.0.0 wsj.com
