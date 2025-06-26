@@ -101,6 +101,35 @@
 0.0.0.0 support.kxxv.com
 0.0.0.0 www.kxxv.com
 
+#LATIMES
+0.0.0.0 activate.latimes.com
+0.0.0.0 advertising.latimes.com
+0.0.0.0 authenticate.latimes.com
+0.0.0.0 billing.platform.latimes.com
+0.0.0.0 careers.latimes.com
+0.0.0.0 careers.studios.latimes.com
+0.0.0.0 classifieds.latimes.com
+0.0.0.0 digitalagency.latimes.com
+0.0.0.0 edge.platform.latimes.com
+0.0.0.0 enewspaper.latimes.com
+0.0.0.0 entitlements.platform.latimes.com
+0.0.0.0 events.latimes.com
+0.0.0.0 highschool.latimes.com
+0.0.0.0 hiring.latimes.com
+0.0.0.0 jobs.latimes.com
+0.0.0.0 latimes.com
+0.0.0.0 libs.platform.latimes.com
+0.0.0.0 marketplace.latimes.com
+0.0.0.0 mediakit.latimes.com
+0.0.0.0 membership.latimes.com
+0.0.0.0 peopleonthemove.latimes.com
+0.0.0.0 placeanad.latimes.com
+0.0.0.0 shoplatimes.com
+0.0.0.0 sli.latimes.com
+0.0.0.0 store.latimes.com
+0.0.0.0 studios.latimes.com
+0.0.0.0 www.latimes.com
+
 # MSNBC
 0.0.0.0 link.msnbc.com
 0.0.0.0 msnbc.com
