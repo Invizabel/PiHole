@@ -316,6 +316,10 @@ navbharatlive.com
 0.0.0.0 thestar.com
 0.0.0.0 www.thestar.com
 
+# TV9
+0.0.0.0 tv9.com
+0.0.0.0 www.tv9.com
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
