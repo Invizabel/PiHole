@@ -6,6 +6,15 @@
 0.0.0.0 projects.apnews.com
 0.0.0.0 www.apnews.com
 
+# BBC
+0.0.0.0 account.bbc.com
+0.0.0.0 bbc.com
+0.0.0.0 cloud.email.bbc.com
+0.0.0.0 gn-web-assets.api.bbc.com
+0.0.0.0 help.bbc.com
+0.0.0.0 shop.bbc.com
+0.0.0.0 www.bbc.com
+
 # CBS
 0.0.0.0 cbs.com
 0.0.0.0 help.cbs.com
