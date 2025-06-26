@@ -221,6 +221,11 @@
 0.0.0.0 tinydeskcontest.npr.org
 0.0.0.0 www.npr.org
 
+# NTVTELUGA
+0.0.0.0 images.ntvtelugu.com
+0.0.0.0 ntvtelugu.com
+0.0.0.0 www.ntvtelugu.com
+
 # NYPOST
 0.0.0.0 advertising.nypost.com
 0.0.0.0 apps.nypost.com
