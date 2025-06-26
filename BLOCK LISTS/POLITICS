@@ -12,6 +12,25 @@
 0.0.0.0 player-services.cbs.com
 0.0.0.0 www.cbs.com
 
+# CBSNEWS
+0.0.0.0 cbsn-bos.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-chi.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-dal.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-den.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-det.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-la.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-min.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-ny.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-phi.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-pit.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-sf.cbsnstream.cbsnews.com
+0.0.0.0 cbsn-us.cbsnstream.cbsnews.com
+0.0.0.0 cbsnews.com
+0.0.0.0 help.cbsnews.com
+0.0.0.0 nevertoolate.cbsnews.com
+0.0.0.0 prod.vodvideo.cbsnews.com
+0.0.0.0 www.cbsnews.com
+
 # CNN
 0.0.0.0 arabic.cnn.com
 0.0.0.0 cdn.cnn.com
