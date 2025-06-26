@@ -121,6 +121,23 @@
 0.0.0.0 secure.nbcnews.com
 0.0.0.0 www.nbcnews.com
 
+# NPR
+0.0.0.0 apps.npr.org
+0.0.0.0 bundles.npr.org
+0.0.0.0 click.nl.npr.org
+0.0.0.0 feeds.npr.org
+0.0.0.0 help.npr.org
+0.0.0.0 livesessions.npr.org
+0.0.0.0 media.npr.org
+0.0.0.0 npr.org
+0.0.0.0 ondemand.npr.org
+0.0.0.0 s.npr.org
+0.0.0.0 shopnpr.org
+0.0.0.0 static-assets.npr.org
+0.0.0.0 text.npr.org
+0.0.0.0 tinydeskcontest.npr.org
+0.0.0.0 www.npr.org
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
