@@ -75,6 +75,29 @@
 0.0.0.0 prod.vodvideo.cbsnews.com
 0.0.0.0 www.cbsnews.com
 
+# CHICAGOTRIBUNE
+0.0.0.0 advertising.chicagotribune.com
+0.0.0.0 chicagotribune.com
+0.0.0.0 classifieds.chicagotribune.com
+0.0.0.0 digitaledition.aurorabeaconnews.chicagotribune.com
+0.0.0.0 digitaledition.chicagotribune.com
+0.0.0.0 digitaledition.dailysouthtown.chicagotribune.com
+0.0.0.0 digitaledition.elgincouriernews.chicagotribune.com
+0.0.0.0 digitaledition.napersun.chicagotribune.com
+0.0.0.0 digitaledition.napervillemagazine.chicagotribune.com
+0.0.0.0 digitaledition.newssunonline.chicagotribune.com
+0.0.0.0 digitaledition.post-trib.chicagotribune.com
+0.0.0.0 fun.chicagotribune.com
+0.0.0.0 hiring.chicagotribune.com
+0.0.0.0 jobs.chicagotribune.com
+membership.chicagotribune.com
+mktops.chicagotribune.com
+myaccount.chicagotribune.com
+placeanad.chicagotribune.com
+r610.chicagotribune.com
+store.chicagotribune.com
+www.chicagotribune.com
+
 # CNN
 0.0.0.0 arabic.cnn.com
 0.0.0.0 cdn.cnn.com
@@ -151,6 +174,13 @@
 0.0.0.0 tradingstudio.fxstreet.com
 0.0.0.0 www.fxstreet.com
 0.0.0.0 www.fxstreet.com.tr
+
+# GOTHAMIST
+0.0.0.0 api-prod.gothamist.com
+0.0.0.0 campaigns.gothamist.com
+0.0.0.0 gothamist.com
+0.0.0.0 images-prod.gothamist.com
+0.0.0.0 www.gothamist.com
 
 # HASTAGU
 0.0.0.0 hashtagu.in
@@ -277,6 +307,11 @@ navbharatlive.com
 0.0.0.0 secure.nbcnews.com
 0.0.0.0 www.nbcnews.com
 
+# NBCNEWYORK
+0.0.0.0 media.nbcnewyork.com
+0.0.0.0 nbcnewyork.com
+0.0.0.0 www.nbcnewyork.com
+
 # NEWS9LIVE
 0.0.0.0 images.news9live.com
 0.0.0.0 news9live.com
@@ -374,6 +409,10 @@ navbharatlive.com
 0.0.0.0 topics.pennlive.com
 0.0.0.0 videos.pennlive.com
 0.0.0.0 www.pennlive.com
+
+# SALON
+0.0.0.0 salon.com
+0.0.0.0 www.salon.com
 
 # SEATTLETIMES
 0.0.0.0 ad.seattletimes.com
