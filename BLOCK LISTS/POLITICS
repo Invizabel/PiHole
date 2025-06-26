@@ -1,4 +1,10 @@
-# CNN (POLITICS)
+# CBS
+0.0.0.0 cbs.com
+0.0.0.0 help.cbs.com
+0.0.0.0 player-services.cbs.com
+0.0.0.0 www.cbs.com
+
+# CNN
 0.0.0.0 arabic.cnn.com
 0.0.0.0 cdn.cnn.com
 0.0.0.0 cnn.com
@@ -20,7 +26,7 @@
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 z.cdp-dev.cnn.com
 
-# FOXNEWS (POLITICS):
+# FOXNEWS
 0.0.0.0 a57.foxnews.com
 0.0.0.0 analytics.nova.foxnews.com
 0.0.0.0 dev-static.foxnews.com
@@ -42,3 +48,19 @@
 0.0.0.0 static.foxnews.com
 0.0.0.0 try.nation.foxnews.com
 0.0.0.0 video.foxnews.com
+
+# KXXV
+0.0.0.0 kxxv.com
+0.0.0.0 mediaassets.kxxv.com
+0.0.0.0 support.kxxv.com
+0.0.0.0 www.kxxv.com
+
+# MSNBC
+0.0.0.0 link.msnbc.com
+0.0.0.0 msnbc.com
+0.0.0.0 secure.msnbc.com
+0.0.0.0 www.msnbc.com
+
+# WSJ
+0.0.0.0 wsj.com
+0.0.0.0 www.wsj.com
