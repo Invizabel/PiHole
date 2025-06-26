@@ -85,6 +85,12 @@
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 z.cdp-dev.cnn.com
 
+# FILMY FOCUS
+0.0.0.0 filmyfocus.com
+0.0.0.0 hindi.filmyfocus.com
+0.0.0.0 tamil.filmyfocus.com
+0.0.0.0 telugu.filmyfocus.com
+
 # FOX
 0.0.0.0 analytics.nova.fox.com
 0.0.0.0 api3.fox.com
@@ -133,6 +139,13 @@
 0.0.0.0 tradingstudio.fxstreet.com
 0.0.0.0 www.fxstreet.com
 0.0.0.0 www.fxstreet.com.tr
+
+# HASTAGU
+0.0.0.0 hashtagu.in
+0.0.0.0 hindi.hashtagu.in
+0.0.0.0 images.hashtagu.in
+0.0.0.0 telugu.hashtagu.in
+0.0.0.0 www.hashtagu.in
 
 # KSTP
 0.0.0.0 kstp.com
