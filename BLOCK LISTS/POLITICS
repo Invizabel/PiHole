@@ -138,6 +138,22 @@
 0.0.0.0 tinydeskcontest.npr.org
 0.0.0.0 www.npr.org
 
+# NYPOST
+0.0.0.0 advertising.nypost.com
+0.0.0.0 apps.nypost.com
+0.0.0.0 careers.nypost.com
+0.0.0.0 email.nypost.com
+0.0.0.0 my.nypost.com
+0.0.0.0 nypost.com
+0.0.0.0 pbc.nypost.com
+0.0.0.0 shop.nypost.com
+0.0.0.0 sportstats.nypost.com
+0.0.0.0 stcblink.nypost.com
+0.0.0.0 subscribe.nypost.com
+0.0.0.0 vip.nypost.com
+0.0.0.0 www.nypost.com
+0.0.0.0 zephr-v4.nypost.com
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
