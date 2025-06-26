@@ -181,6 +181,11 @@
 0.0.0.0 secure.msnbc.com
 0.0.0.0 www.msnbc.com
 
+# NAVBHARATLIVE
+epaper.navbharatlive.com
+images.navbharatlive.com
+navbharatlive.com
+
 # NBC
 0.0.0.0 friendship.nbc.com
 0.0.0.0 nbc.com
