@@ -220,6 +220,18 @@
 0.0.0.0 www.pennlive.com
 0.0.0.0 www.pennlive.com:443
 
+# THESTAR
+0.0.0.0 charities.thestar.com
+0.0.0.0 diversions.thestar.com
+0.0.0.0 games.thestar.com
+0.0.0.0 misc.thestar.com
+0.0.0.0 obituaries.thestar.com
+0.0.0.0 readerschoice.thestar.com
+0.0.0.0 resources.thestar.com
+0.0.0.0 thestar.com
+0.0.0.0 www.thestar.com
+
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
