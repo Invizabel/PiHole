@@ -38,6 +38,18 @@
 0.0.0.0 www2.bostonglobe.com
 0.0.0.0 www3.bostonglobe.com
 
+# BOSTONHERALD
+0.0.0.0 adportal.bostonherald.com
+0.0.0.0 bostonherald.com
+0.0.0.0 businessdirectory.bostonherald.com
+0.0.0.0 checkout.bostonherald.com
+0.0.0.0 enewspaper.bostonherald.com
+0.0.0.0 f023.bostonherald.com
+0.0.0.0 marketplace.bostonherald.com
+0.0.0.0 myaccount.bostonherald.com
+0.0.0.0 store.bostonherald.com
+0.0.0.0 www.bostonherald.com
+
 # CBS
 0.0.0.0 cbs.com
 0.0.0.0 help.cbs.com
@@ -271,6 +283,20 @@ navbharatlive.com
 0.0.0.0 static.news9live.com
 0.0.0.0 www.news9live.com
 
+# NEWSWEEK
+0.0.0.0 advertising.newsweek.com
+0.0.0.0 d.newsweek.com
+0.0.0.0 events.newsweek.com
+0.0.0.0 g.newsweek.com
+0.0.0.0 gc.newsweek.com
+0.0.0.0 inline.newsweek.com
+0.0.0.0 link.newsweek.com
+0.0.0.0 newsweek.com
+0.0.0.0 rankings.newsweek.com
+0.0.0.0 search.newsweek.com
+0.0.0.0 videos.newsweek.com
+0.0.0.0 www.newsweek.com
+
 # NPR
 0.0.0.0 apps.npr.org
 0.0.0.0 bundles.npr.org
@@ -374,6 +400,11 @@ navbharatlive.com
 0.0.0.0 theticket.seattletimes.com
 0.0.0.0 ui.seattletimes.com
 0.0.0.0 www.seattletimes.com
+
+# THEINTERCEPTOR
+0.0.0.0 aks.theintercept.com
+0.0.0.0 join.theintercept.com
+0.0.0.0 theintercept.com
 
 # THESTAR
 0.0.0.0 charities.thestar.com
