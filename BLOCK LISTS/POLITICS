@@ -79,6 +79,29 @@
 0.0.0.0 secure.msnbc.com
 0.0.0.0 www.msnbc.com
 
+# NBC
+0.0.0.0 friendship.nbc.com
+0.0.0.0 nbc.com
+0.0.0.0 www.nbc.com
+
+# NBCNEWS
+0.0.0.0 id.nbcnews.com
+0.0.0.0 iframe.nbcnews.com
+0.0.0.0 link.nbcnews.com
+0.0.0.0 media-cldnry.s-nbcnews.com
+0.0.0.0 media1.s-nbcnews.com
+0.0.0.0 media11.s-nbcnews.com
+0.0.0.0 media12.s-nbcnews.com
+0.0.0.0 media13.s-nbcnews.com
+0.0.0.0 media14.s-nbcnews.com
+0.0.0.0 media2.s-nbcnews.com
+0.0.0.0 media3.s-nbcnews.com
+0.0.0.0 media4.s-nbcnews.com
+0.0.0.0 nbcnews.com
+0.0.0.0 nodeassets.nbcnews.com
+0.0.0.0 secure.nbcnews.com
+0.0.0.0 www.nbcnews.com
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
