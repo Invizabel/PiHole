@@ -192,6 +192,34 @@
 0.0.0.0 www.nypost.com
 0.0.0.0 zephr-v4.nypost.com
 
+# PENNLIVE
+0.0.0.0 autos.pennlive.com
+0.0.0.0 businessfinder.pennlive.com
+0.0.0.0 classifieds.pennlive.com
+0.0.0.0 connect.pennlive.com
+0.0.0.0 findnsave.pennlive.com
+0.0.0.0 foreclosures.pennlive.com
+0.0.0.0 garagesales.m.pennlive.com
+0.0.0.0 highschoolsports.pennlive.com
+0.0.0.0 hiring.pennlive.com
+0.0.0.0 jobs.pennlive.com
+0.0.0.0 link.pennlive.com
+0.0.0.0 media.pennlive.com
+0.0.0.0 member.pennlive.com
+0.0.0.0 myaccount.pennlive.com
+0.0.0.0 obits.pennlive.com
+0.0.0.0 partnerships.pennlive.com
+0.0.0.0 pennlive.com
+0.0.0.0 photos.pennlive.com
+0.0.0.0 placead.pennlive.com
+0.0.0.0 realestate.pennlive.com
+0.0.0.0 search.pennlive.com
+0.0.0.0 subscribe.pennlive.com
+0.0.0.0 topics.pennlive.com
+0.0.0.0 videos.pennlive.com
+0.0.0.0 www.pennlive.com
+0.0.0.0 www.pennlive.com:443
+
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
