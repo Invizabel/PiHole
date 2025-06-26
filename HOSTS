@@ -1,5 +1,26 @@
-# Fake/Misleading:
+# CNN (POLITICS)
+0.0.0.0 arabic.cnn.com
+0.0.0.0 cdn.cnn.com
+0.0.0.0 cnn.com
+0.0.0.0 cnnespanol.cnn.com
+0.0.0.0 coupons.cnn.com
+0.0.0.0 data.cnn.com
+0.0.0.0 edition.cnn.com
+0.0.0.0 healthguides.cnn.com
+0.0.0.0 help.cnn.com
+0.0.0.0 lightning.cnn.com
+0.0.0.0 media.cnn.com
+0.0.0.0 mexico.cnn.com
+0.0.0.0 money.cnn.com
+0.0.0.0 rss.cnn.com
+0.0.0.0 smetrics.cnn.com
+0.0.0.0 store.cnn.com
+0.0.0.0 us.cnn.com
+0.0.0.0 www.cnn.com
+0.0.0.0 www.i.cdn.cnn.com
+0.0.0.0 z.cdp-dev.cnn.com
 
+# Foxnews (POLITICS):
 0.0.0.0 a57.foxnews.com
 0.0.0.0 analytics.nova.foxnews.com
 0.0.0.0 dev-static.foxnews.com
