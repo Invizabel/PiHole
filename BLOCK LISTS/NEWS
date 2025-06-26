@@ -111,6 +111,17 @@
 0.0.0.0 www.fxstreet.com
 0.0.0.0 www.fxstreet.com.tr
 
+# KSTP
+0.0.0.0 kstp.com
+0.0.0.0 link.kstp.com
+0.0.0.0 test.kstp.com
+0.0.0.0 www.kstp.com
+
+# KWTX
+0.0.0.0 kwtx.com
+0.0.0.0 www.kwtx.com
+0.0.0.0 www.kwtx.com
+
 # KXXV
 0.0.0.0 kxxv.com
 0.0.0.0 mediaassets.kxxv.com
