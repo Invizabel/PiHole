@@ -95,6 +95,22 @@
 0.0.0.0 try.nation.foxnews.com
 0.0.0.0 video.foxnews.com
 
+# FXSTREET
+0.0.0.0 about.fxstreet.com
+0.0.0.0 ar.fxstreet.com
+0.0.0.0 authorization.fxstreet.com
+0.0.0.0 calendar.fxstreet.com
+0.0.0.0 cashback.fxstreet.com
+0.0.0.0 editorial.fxstreet.com
+0.0.0.0 fxstreet.com
+0.0.0.0 pt.fxstreet.com
+0.0.0.0 push-minor-api.fxstreet.com
+0.0.0.0 sobre.fxstreet.com
+0.0.0.0 staticcontent.fxstreet.com
+0.0.0.0 tradingstudio.fxstreet.com
+0.0.0.0 www.fxstreet.com
+0.0.0.0 www.fxstreet.com.tr
+
 # KXXV
 0.0.0.0 kxxv.com
 0.0.0.0 mediaassets.kxxv.com
@@ -220,6 +236,32 @@
 0.0.0.0 www.pennlive.com
 0.0.0.0 www.pennlive.com:443
 
+# SEATTLETIMES
+0.0.0.0 ad.seattletimes.com
+0.0.0.0 assets.seattletimes.com
+0.0.0.0 autos.seattletimes.com
+0.0.0.0 awsapi.seattletimes.com
+0.0.0.0 classifieds.seattletimes.com
+0.0.0.0 company.seattletimes.com
+0.0.0.0 contentstudio.seattletimes.com
+0.0.0.0 ffn.seattletimes.com
+0.0.0.0 hiring.seattletimes.com
+0.0.0.0 images.seattletimes.com
+0.0.0.0 jobs.seattletimes.com
+0.0.0.0 mediasolutions.seattletimes.com
+0.0.0.0 nie.seattletimes.com
+0.0.0.0 obituaries.seattletimes.com
+0.0.0.0 photostore.seattletimes.com
+0.0.0.0 projects.seattletimes.com
+0.0.0.0 promo.seattletimes.com
+0.0.0.0 replica.seattletimes.com
+0.0.0.0 seattletimes.com
+0.0.0.0 secure.seattletimes.com
+0.0.0.0 store.seattletimes.com
+0.0.0.0 theticket.seattletimes.com
+0.0.0.0 ui.seattletimes.com
+0.0.0.0 www.seattletimes.com
+
 # THESTAR
 0.0.0.0 charities.thestar.com
 0.0.0.0 diversions.thestar.com
@@ -230,7 +272,6 @@
 0.0.0.0 resources.thestar.com
 0.0.0.0 thestar.com
 0.0.0.0 www.thestar.com
-
 
 # WSJ
 0.0.0.0 wsj.com
