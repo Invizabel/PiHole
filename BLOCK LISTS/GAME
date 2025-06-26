@@ -1,0 +1,29 @@
+# GOG
+0.0.0.0 content-system.gog.com
+0.0.0.0 files.gog.com
+0.0.0.0 gog.com
+0.0.0.0 images.gog.com
+0.0.0.0 items.gog.com
+0.0.0.0 support.gog.com
+0.0.0.0 www.gog.com
+
+# STEAMPOWERED
+0.0.0.0 checkout.steampowered.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 media.steampowered.com
+0.0.0.0 steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 support.steampowered.com
+0.0.0.0 www.steampowered.com
+
+# XBOX
+0.0.0.0 account.xbox.com
+0.0.0.0 assets-www.xbox.com
+0.0.0.0 assets-xbxweb.xbox.com
+0.0.0.0 gear.xbox.com
+0.0.0.0 news.xbox.com
+0.0.0.0 support.xbox.com
+0.0.0.0 www.xbox.com
+0.0.0.0 xbox.com
+
+
