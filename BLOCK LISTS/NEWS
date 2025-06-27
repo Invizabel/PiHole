@@ -347,7 +347,12 @@ navbharatlive.com
 # NBCNEWYORK
 0.0.0.0 media.nbcnewyork.com
 0.0.0.0 nbcnewyork.com
-0.0.0.0 www.nbcnewyork.com
+www.nbcnewyork.com
+
+# nbcsandiego
+0.0.0.0 media.nbcsandiego.com
+0.0.0.0 nbcsandiego.com
+0.0.0.0 www.nbcsandiego.com
 
 # NBCWASHINGTON
 0.0.0.0 media.nbcwashington.com
@@ -580,6 +585,10 @@ navbharatlive.com
 0.0.0.0 travel.usnews.com
 0.0.0.0 usnews.com
 0.0.0.0 www.usnews.com
+
+# VILLAGEVOICE
+0.0.0.0 villagevoice.com
+0.0.0.0 www.villagevoice.com
 
 # WSJ
 0.0.0.0 wsj.com
