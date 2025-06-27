@@ -3,6 +3,10 @@
 0.0.0.0 images.10tv.in
 0.0.0.0 www.10tv.in
 
+# ABC7NEWS
+0.0.0.0 abc7news.com
+0.0.0.0 stage.abc7news.com
+
 # APNEWS
 0.0.0.0 apcdp.apnews.com
 0.0.0.0 apnews.com
@@ -126,6 +130,17 @@ www.chicagotribune.com
 0.0.0.0 www.cnn.com
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 z.cdp-dev.cnn.com
+
+# DAILYHERALD
+0.0.0.0 dailyherald.com
+0.0.0.0 e-edition.dailyherald.com
+0.0.0.0 events.dailyherald.com
+0.0.0.0 local.dailyherald.com
+0.0.0.0 marketplace.dailyherald.com
+0.0.0.0 prev.dailyherald.com
+0.0.0.0 readerschoice.dailyherald.com
+0.0.0.0 share.dailyherald.com
+0.0.0.0 www.dailyherald.com
 
 # FILMY FOCUS
 0.0.0.0 filmyfocus.com
@@ -296,6 +311,21 @@ navbharatlive.com
 0.0.0.0 nbc.com
 0.0.0.0 www.nbc.com
 
+# NBCCHICAGO
+0.0.0.0 media.nbcchicago.com
+0.0.0.0 nbcchicago.com
+0.0.0.0 www.nbcchicago.com
+
+# NBCDWF
+0.0.0.0 media.nbcdfw.com
+0.0.0.0 nbcdfw.com
+0.0.0.0 www.nbcdfw.com
+
+# NBCLOSANGELES
+0.0.0.0 media.nbclosangeles.com
+0.0.0.0 nbclosangeles.com
+0.0.0.0 www.nbclosangeles.com
+
 # NBCNEWS
 0.0.0.0 id.nbcnews.com
 0.0.0.0 iframe.nbcnews.com
@@ -319,11 +349,43 @@ navbharatlive.com
 0.0.0.0 nbcnewyork.com
 0.0.0.0 www.nbcnewyork.com
 
+# NBCWASHINGTON
+0.0.0.0 media.nbcwashington.com
+0.0.0.0 nbcwashington.com
+0.0.0.0 www.nbcwashington.com
+
 # NEWS9LIVE
 0.0.0.0 images.news9live.com
 0.0.0.0 news9live.com
 0.0.0.0 static.news9live.com
 0.0.0.0 www.news9live.com
+
+# NEWSDAY
+0.0.0.0 addesk.newsday.com
+0.0.0.0 assets.projects.newsday.com
+0.0.0.0 cars.newsday.com
+0.0.0.0 cdn.marketing.newsday.com
+0.0.0.0 cdn.newsday.com
+0.0.0.0 homes.newsday.com
+0.0.0.0 link.newsday.com
+0.0.0.0 loader.newsday.com
+0.0.0.0 local.newsday.com
+0.0.0.0 long-island-jobs.newsday.com
+0.0.0.0 mediakit.newsday.com
+0.0.0.0 newsday.com
+0.0.0.0 next.newsday.com
+0.0.0.0 paper.newsday.com
+0.0.0.0 placeobit.newsday.com
+0.0.0.0 productions.newsday.com
+0.0.0.0 projects.newsday.com
+0.0.0.0 projectsadmin.newsday.com
+0.0.0.0 promotions.newsday.com
+0.0.0.0 scores.newsday.com
+0.0.0.0 stage.projects.newsday.com
+0.0.0.0 static.newsday.com
+0.0.0.0 subscribe.newsday.com
+0.0.0.0 tv.newsday.com
+0.0.0.0 www.newsday.com
 
 # NEWSWEEK
 0.0.0.0 advertising.newsweek.com
