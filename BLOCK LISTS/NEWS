@@ -115,13 +115,17 @@
 0.0.0.0 fun.chicagotribune.com
 0.0.0.0 hiring.chicagotribune.com
 0.0.0.0 jobs.chicagotribune.com
-membership.chicagotribune.com
-mktops.chicagotribune.com
-myaccount.chicagotribune.com
-placeanad.chicagotribune.com
-r610.chicagotribune.com
-store.chicagotribune.com
-www.chicagotribune.com
+0.0.0.0 membership.chicagotribune.com
+0.0.0.0 mktops.chicagotribune.com
+0.0.0.0 myaccount.chicagotribune.com
+0.0.0.0 placeanad.chicagotribune.com
+0.0.0.0 r610.chicagotribune.com
+0.0.0.0 store.chicagotribune.com
+0.0.0.0 www.chicagotribune.com
+
+# CITYLIMITS
+0.0.0.0 citylimits.org
+0.0.0.0 jobs.citylimits.org
 
 # CNN
 0.0.0.0 arabic.cnn.com
@@ -637,6 +641,10 @@ www.nydailynews.com
 # VILLAGEVOICE
 0.0.0.0 villagevoice.com
 0.0.0.0 www.villagevoice.com
+
+# WHDH
+0.0.0.0 whdh.com
+0.0.0.0 www.whdh.com
 
 # WSJ
 0.0.0.0 wsj.com
