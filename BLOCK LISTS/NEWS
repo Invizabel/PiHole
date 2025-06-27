@@ -20,6 +20,13 @@
 0.0.0.0 shop.bbc.com
 0.0.0.0 www.bbc.com
 
+# BREITBART
+0.0.0.0 breitbart.com
+0.0.0.0 media.breitbart.com
+0.0.0.0 store.breitbart.com
+0.0.0.0 web.breitbart.com
+0.0.0.0 www.breitbart.com
+
 # BOSTONGLOBE
 0.0.0.0 apps.bostonglobe.com
 0.0.0.0 bostonglobe.com
@@ -439,6 +446,21 @@ navbharatlive.com
 0.0.0.0 theticket.seattletimes.com
 0.0.0.0 ui.seattletimes.com
 0.0.0.0 www.seattletimes.com
+
+# SUNTIMES
+0.0.0.0 ads.suntimes.com
+0.0.0.0 chicago.suntimes.com
+0.0.0.0 graphics.suntimes.com
+0.0.0.0 hiring.suntimes.com
+0.0.0.0 jobs.suntimes.com
+0.0.0.0 legacy.suntimes.com
+0.0.0.0 marketing.suntimes.com
+0.0.0.0 marketplace.suntimes.com
+0.0.0.0 newsletter-hub.suntimes.com
+0.0.0.0 pages.suntimes.com
+0.0.0.0 paper.suntimes.com
+0.0.0.0 suntimes.com
+0.0.0.0 www.suntimes.com
 
 # THEINTERCEPTOR
 0.0.0.0 aks.theintercept.com
