@@ -160,11 +160,33 @@
 0.0.0.0 share.dailyherald.com
 0.0.0.0 www.dailyherald.com
 
+# DENVERPOST
+0.0.0.0 blogs.denverpost.com
+0.0.0.0 c615.denverpost.com
+0.0.0.0 calendar.denverpost.com
+0.0.0.0 checkout.denverpost.com
+0.0.0.0 denverpost.com
+0.0.0.0 enewspaper.denverpost.com
+0.0.0.0 extras.denverpost.com
+0.0.0.0 games.denverpost.com
+0.0.0.0 jobs.denverpost.com
+0.0.0.0 marketplace.denverpost.com
+0.0.0.0 my.denverpost.com
+0.0.0.0 myaccount.denverpost.com
+0.0.0.0 promote.denverpost.com
+0.0.0.0 store.denverpost.com
+0.0.0.0 theknow.denverpost.com
+0.0.0.0 www.denverpost.com
+0.0.0.0 yourhub.denverpost.com
+
 # FILMY FOCUS
 0.0.0.0 filmyfocus.com
 0.0.0.0 hindi.filmyfocus.com
 0.0.0.0 tamil.filmyfocus.com
 0.0.0.0 telugu.filmyfocus.com
+
+# FORESTHILLSTIMES
+0.0.0.0 foresthillstimes.com
 
 # FOX
 0.0.0.0 analytics.nova.fox.com
@@ -229,6 +251,11 @@
 0.0.0.0 telugu.hashtagu.in
 0.0.0.0 www.hashtagu.in
 
+# HEARTLANDNEWSFEED
+0.0.0.0 heartlandnewsfeed.com
+0.0.0.0 webmail.heartlandnewsfeed.com
+0.0.0.0 www.heartlandnewsfeed.com
+
 # HUFFPOST
 0.0.0.0 auth.huffpost.com
 0.0.0.0 chaski.huffpost.com
@@ -254,6 +281,13 @@ www.kiro7.com
 0.0.0.0 test.kstp.com
 0.0.0.0 www.kstp.com
 
+# KTLA
+0.0.0.0 blue.ktla.com
+0.0.0.0 jobs.ktla.com
+0.0.0.0 ktla.com
+0.0.0.0 nxslink.ktla.com
+0.0.0.0 redir1.ktla.com
+
 # KWTX
 0.0.0.0 kwtx.com
 0.0.0.0 www.kwtx.com
@@ -264,6 +298,14 @@ www.kiro7.com
 0.0.0.0 mediaassets.kxxv.com
 0.0.0.0 support.kxxv.com
 0.0.0.0 www.kxxv.com
+
+# METROTIMES
+0.0.0.0 media1.metrotimes.com
+0.0.0.0 media2.metrotimes.com
+0.0.0.0 metrotimes.com
+0.0.0.0 partnerstudio.metrotimes.com
+0.0.0.0 posting.metrotimes.com
+0.0.0.0 www.metrotimes.com
 
 #LATIMES
 0.0.0.0 activate.latimes.com
@@ -312,6 +354,30 @@ www.kiro7.com
 0.0.0.0 realestate.mercurynews.com
 0.0.0.0 store.mercurynews.com
 0.0.0.0 www.mercurynews.com
+
+# MIAMINEWTIMES
+0.0.0.0 adindex.miaminewtimes.com
+0.0.0.0 media1.miaminewtimes.com
+0.0.0.0 media2.miaminewtimes.com
+0.0.0.0 miaminewtimes.com
+0.0.0.0 posting.miaminewtimes.com
+0.0.0.0 storyconsole.miaminewtimes.com
+0.0.0.0 video.miaminewtimes.com
+0.0.0.0 www.miaminewtimes.com
+
+# MIAMITODAYNEWS
+0.0.0.0 miamitodaynews.com
+0.0.0.0 www.miamitodaynews.com
+
+# MINNPOST
+0.0.0.0 minnpost.com
+0.0.0.0 www.minnpost.com
+
+# MORNINGBREW
+0.0.0.0 foundersjournalpod.morningbrew.com
+0.0.0.0 morningbrew.com
+0.0.0.0 shop.morningbrew.com
+0.0.0.0 www.morningbrew.com
 
 # MSNBC
 0.0.0.0 link.msnbc.com
@@ -382,6 +448,10 @@ navbharatlive.com
 0.0.0.0 nbcwashington.com
 0.0.0.0 www.nbcwashington.com
 
+# NEXTSHARK
+0.0.0.0 data.nextshark.com
+0.0.0.0 nextshark.com
+
 # NEWS9LIVE
 0.0.0.0 images.news9live.com
 0.0.0.0 news9live.com
@@ -414,6 +484,9 @@ navbharatlive.com
 0.0.0.0 subscribe.newsday.com
 0.0.0.0 tv.newsday.com
 0.0.0.0 www.newsday.com
+
+# NEWRIGHTNOW
+0.0.0.0 newrightnetwork.com
 
 # NEWSWEEK
 0.0.0.0 advertising.newsweek.com
@@ -452,21 +525,21 @@ navbharatlive.com
 0.0.0.0 www.ntvtelugu.com
 
 # NYDAILYNEWS
-advertising.nydailynews.com
-checkout2.nydailynews.com
-classifieds.nydailynews.com
-enewspaper.nydailynews.com
-fun.nydailynews.com
-h689.nydailynews.com
-membership.nydailynews.com
-mktops.nydailynews.com
-multimedia.nydailynews.com
-myaccount.nydailynews.com
-nydailynews.com
-obituaries.nydailynews.com
-placeanad.nydailynews.com
-store.nydailynews.com
-www.nydailynews.com
+0.0.0.0 advertising.nydailynews.com
+0.0.0.0 checkout2.nydailynews.com
+0.0.0.0 classifieds.nydailynews.com
+0.0.0.0 enewspaper.nydailynews.com
+0.0.0.0 fun.nydailynews.com
+0.0.0.0 h689.nydailynews.com
+0.0.0.0 membership.nydailynews.com
+0.0.0.0 mktops.nydailynews.com
+0.0.0.0 multimedia.nydailynews.com
+0.0.0.0 myaccount.nydailynews.com
+0.0.0.0 nydailynews.com
+0.0.0.0 obituaries.nydailynews.com
+0.0.0.0 placeanad.nydailynews.com
+0.0.0.0 store.nydailynews.com
+0.0.0.0 www.nydailynews.com
 
 # NYPOST
 0.0.0.0 advertising.nypost.com
@@ -483,6 +556,14 @@ www.nydailynews.com
 0.0.0.0 vip.nypost.com
 0.0.0.0 www.nypost.com
 0.0.0.0 zephr-v4.nypost.com
+
+# NYSUN
+0.0.0.0 founder.nysun.com
+0.0.0.0 join.nysun.com
+0.0.0.0 nysun.com
+0.0.0.0 shop.nysun.com
+0.0.0.0 wp.nysun.com
+0.0.0.0 www.nysun.com
 
 # NYTIMES
 0.0.0.0 advertising.nytimes.com
@@ -524,9 +605,21 @@ www.nydailynews.com
 0.0.0.0 videos.pennlive.com
 0.0.0.0 www.pennlive.com
 
+# PUBLISHEDREPORTER
+0.0.0.0 publishedreporter.com
+0.0.0.0 www.publishedreporter.com
+
 # SALON
 0.0.0.0 salon.com
 0.0.0.0 www.salon.com
+
+# SEATTLEPI
+0.0.0.0 blog.seattlepi.com
+0.0.0.0 education.seattlepi.com
+0.0.0.0 hearstseattlepi.com
+0.0.0.0 seattlepi.com
+0.0.0.0 storystudio.seattlepi.com
+0.0.0.0 www.seattlepi.com
 
 # SEATTLETIMES
 0.0.0.0 ad.seattletimes.com
@@ -569,10 +662,45 @@ www.nydailynews.com
 0.0.0.0 suntimes.com
 0.0.0.0 www.suntimes.com
 
+# TEXASOBSERVER
+0.0.0.0 archives.texasobserver.org
+0.0.0.0 store.texasobserver.org
+0.0.0.0 texasobserver.org
+0.0.0.0 www.texasobserver.org
+
+# THEEPOCHTIMES
+0.0.0.0 app.theepochtimes.com
+0.0.0.0 au.theepochtimes.com
+0.0.0.0 ca.theepochtimes.com
+0.0.0.0 checkout.theepochtimes.com
+0.0.0.0 es-donate.theepochtimes.com
+0.0.0.0 es.theepochtimes.com
+0.0.0.0 help.theepochtimes.com
+0.0.0.0 img.theepochtimes.com
+0.0.0.0 kr.theepochtimes.com
+0.0.0.0 m.theepochtimes.com
+0.0.0.0 markets.theepochtimes.com
+0.0.0.0 offers.theepochtimes.com
+0.0.0.0 print.theepochtimes.com
+0.0.0.0 profile.theepochtimes.com
+0.0.0.0 service.theepochtimes.com
+0.0.0.0 staging.theepochtimes.com
+0.0.0.0 subs.theepochtimes.com
+0.0.0.0 subscribe.theepochtimes.com
+0.0.0.0 theepochtimes.com
+0.0.0.0 ukhelp.theepochtimes.com
+0.0.0.0 www.theepochtimes.com
+0.0.0.0 www.theepochtimes.combright
+
 # THEINTERCEPTOR
 0.0.0.0 aks.theintercept.com
 0.0.0.0 join.theintercept.com
 0.0.0.0 theintercept.com
+
+# THEONION
+0.0.0.0 membership.theonion.com
+0.0.0.0 store.theonion.com
+0.0.0.0 theonion.com
 
 # THESTAR
 0.0.0.0 charities.thestar.com
@@ -653,3 +781,10 @@ www.nydailynews.com
 # WSVN
 0.0.0.0 wsvn.com
 0.0.0.0 www.wsvn.com
+
+# WTOP
+0.0.0.0 games.wtop.com
+0.0.0.0 git.wtop.com
+0.0.0.0 live.wtop.com
+0.0.0.0 wtop.com
+0.0.0.0 www.wtop.com
