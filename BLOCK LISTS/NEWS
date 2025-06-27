@@ -7,6 +7,14 @@
 0.0.0.0 abc7news.com
 0.0.0.0 stage.abc7news.com
 
+# AMNY
+0.0.0.0 amny.com
+0.0.0.0 events.amny.com
+0.0.0.0 games.amny.com
+0.0.0.0 jobs.amny.com
+0.0.0.0 rs-stripe.amny.com
+0.0.0.0 www.amny.com
+
 # APNEWS
 0.0.0.0 apcdp.apnews.com
 0.0.0.0 apnews.com
@@ -85,6 +93,12 @@
 0.0.0.0 nevertoolate.cbsnews.com
 0.0.0.0 prod.vodvideo.cbsnews.com
 0.0.0.0 www.cbsnews.com
+
+# CHICAGOREADER
+0.0.0.0 chicagoreader.com
+0.0.0.0 classifieds.chicagoreader.com
+0.0.0.0 store.chicagoreader.com
+0.0.0.0 www.chicagoreader.com
 
 # CHICAGOTRIBUNE
 0.0.0.0 advertising.chicagotribune.com
@@ -347,7 +361,12 @@ navbharatlive.com
 # NBCNEWYORK
 0.0.0.0 media.nbcnewyork.com
 0.0.0.0 nbcnewyork.com
-www.nbcnewyork.com
+0.0.0.0 www.nbcnewyork.com
+
+# NBCPHILADELPHIA
+0.0.0.0 media.nbcphiladelphia.com
+0.0.0.0 nbcphiladelphia.com
+0.0.0.0 www.nbcphiladelphia.com
 
 # nbcsandiego
 0.0.0.0 media.nbcsandiego.com
@@ -427,6 +446,23 @@ www.nbcnewyork.com
 0.0.0.0 images.ntvtelugu.com
 0.0.0.0 ntvtelugu.com
 0.0.0.0 www.ntvtelugu.com
+
+# NYDAILYNEWS
+advertising.nydailynews.com
+checkout2.nydailynews.com
+classifieds.nydailynews.com
+enewspaper.nydailynews.com
+fun.nydailynews.com
+h689.nydailynews.com
+membership.nydailynews.com
+mktops.nydailynews.com
+multimedia.nydailynews.com
+myaccount.nydailynews.com
+nydailynews.com
+obituaries.nydailynews.com
+placeanad.nydailynews.com
+store.nydailynews.com
+www.nydailynews.com
 
 # NYPOST
 0.0.0.0 advertising.nypost.com
@@ -555,6 +591,18 @@ www.nbcnewyork.com
 0.0.0.0 tv9gujarati.com
 0.0.0.0 www.tv9gujarati.com
 
+# TWINCITIIES
+0.0.0.0 adportal.twincities.com
+0.0.0.0 checkout.twincities.com
+0.0.0.0 enewspaper.twincities.com
+0.0.0.0 extras.twincities.com
+0.0.0.0 f703.twincities.com
+0.0.0.0 marketplace.twincities.com
+0.0.0.0 myaccount.twincities.com
+0.0.0.0 store.twincities.com
+0.0.0.0 twincities.com
+0.0.0.0 www.twincities.com
+
 # OBSERVER
 0.0.0.0 observer.com
 0.0.0.0 www.observer.com
@@ -593,3 +641,7 @@ www.nbcnewyork.com
 # WSJ
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
+
+# WSVN
+0.0.0.0 wsvn.com
+0.0.0.0 www.wsvn.com
