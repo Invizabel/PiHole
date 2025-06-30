@@ -1,11 +1,35 @@
+# 6ABC
+0.0.0.0 6abc.com
+0.0.0.0 www.6abc.com
+
 # 10TV
 0.0.0.0 10tv.in
 0.0.0.0 images.10tv.in
 0.0.0.0 www.10tv.in
 
+# ABC7
+0.0.0.0 abc7.com
+0.0.0.0 www.abc7.com
+
+# ABC7CHICAGO
+0.0.0.0 abc7chicago.com
+0.0.0.0 www.abc7chicago.com
+
 # ABC7NEWS
 0.0.0.0 abc7news.com
 0.0.0.0 stage.abc7news.com
+
+# ABC7NY
+0.0.0.0 abc7ny.com
+0.0.0.0 www.abc7ny.com
+
+# ABC11
+0.0.0.0 abc11.com
+0.0.0.0 www.abc11.com
+
+# ABC13
+0.0.0.0 abc13.com
+0.0.0.0 www.abc13.com
 
 # AMNY
 0.0.0.0 amny.com
@@ -31,6 +55,20 @@
 0.0.0.0 help.bbc.com
 0.0.0.0 shop.bbc.com
 0.0.0.0 www.bbc.com
+
+# BBC.CO
+0.0.0.0a1.api.bbc.co.uk
+0.0.0.0bbc.co.uk
+0.0.0.0downloads.bbc.co.uk
+0.0.0.0fig.bbc.co.uk
+0.0.0.0genome.ch.bbc.co.uk
+0.0.0.0idcta.api.bbc.co.uk
+0.0.0.0sa.bbc.co.uk
+0.0.0.0search.bbc.co.uk
+0.0.0.0session.bbc.co.uk
+0.0.0.0ssl.bbc.co.uk
+0.0.0.0static.bbc.co.uk
+0.0.0.0www.bbc.co.uk
 
 # BREITBART
 0.0.0.0 breitbart.com
